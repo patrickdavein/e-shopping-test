@@ -1,5 +1,6 @@
 
 let carts = document.querySelectorAll('.add-cart')
+
 let products = [
     {
         name: 'Dark Classic Hoddie',
