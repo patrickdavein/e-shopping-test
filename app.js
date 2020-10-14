@@ -155,5 +155,6 @@ function setItems(product) {
     }
 
 
+
 onLoadCartNumbers()
 displayCart()
